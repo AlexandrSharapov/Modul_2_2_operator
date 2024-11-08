@@ -13,5 +13,3 @@ elif first == second or second == thirdint or first == thirdint :  #Если 2 �
     print('2')
 else:
     print('0')
-
-#Если равных чисел среди 3-х вообще нет, то вывести 0
